@@ -1,6 +1,6 @@
 branch-defaults:
   develop:
-    environment: eb-deploy-dev
+    environment: eb-deploy-web
     group_suffix: null
 environment-defaults:
   eb-deploy-dev:
